@@ -11,7 +11,7 @@ Reusable Rocketry at Purdue aims to construct and launch reusable rockets with t
 
 The official name of the club is to be “Reusable Rocketry at Purdue”. The official acronym of the group is to be “RRaP”.
 
-ARTICLE II - Purpose of the Organization:
+## ARTICLE II - Purpose of the Organization:
 
 This organization has been created for the benefit of its members. The aim of the club is to solve a difficult engineering challenge while gaining understanding of the topic. Using this method, the members of the group will be able to gain experience in the field of rocketry, and other involved fields. Essentially, we aim to build and launch rockets to further understanding of flight systems and concepts while providing members with skills to benefit future use (such as resume building).
 
