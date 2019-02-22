@@ -8,3 +8,5 @@
 There are multiple informative documents pertaining to RRaP. Here is a master list:
 
 - [RRaP Constitution](RRaPConstitution.md)
+- [RRaP Programming Manifesto](https://github.com/reusable-rocketry-at-purdue/ProgrammingManifesto)
+- [Master CAN ID List](RRaPCANList.md)
